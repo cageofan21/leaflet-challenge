@@ -27,7 +27,7 @@
   
   # Satellite Map 
   
-  ![](Images/Satellite Map.png)
+  ![](Images/Satellite.png)
   
   # Basic(Street) Map
   
